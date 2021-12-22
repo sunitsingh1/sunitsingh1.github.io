@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and Api's 
 - 🌱 I’m currently learning React Js development
 - 💞️ I’m looking to collaborate on web development(Python/Flask/Django)
-- 📫 You can connect with me on LinkedIn and visit my website at https://sunitsingh1.github.io/sunitsingh1/
+- 📫 You can connect with me on LinkedIn and visit my website at https://sunitsingh1.github.io/
      I also love to share my knowledge and experiences in the form of blogs!!
 
 
