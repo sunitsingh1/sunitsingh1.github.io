@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
  - 🌱 I can cook Web Applications in Python/Django/Flask + React.
  - 📫 You can connect with me on <a href="https://www.linkedin.com/in/sunit-kumar-singh-a3231a14b/">LinkedIn</a> and visit my website at https://sunitsingh1.github.io/
          I also love to share my knowledge and experiences!
- - 👯 I’m in love with Linux, Ios and Windows.
+ - 👯 I’m in love with Linux and Windows.
  - 😄 Currently I am working in Rain Autonomics.
 
 
